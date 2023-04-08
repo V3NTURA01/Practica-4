@@ -1,4 +1,4 @@
-//El codigo se hara en lenguaje MATLAB. 
+//El codigo se hara en lenguaje MATLAB  
 '(ch4p1) Example 4.6' % Display label.
 p1=[1 3+7*i]; % Define polynomial containing
 % first pole.
